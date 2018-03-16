@@ -1,7 +1,3 @@
-Amit Twati 318278181
-Yarden Cherry 208899344
-Aviv Adar 208897371
-
 *** IMPORTANT ***
 
 In order to run the project, right click on the "compile" file and click on properties.
