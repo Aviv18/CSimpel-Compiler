@@ -1,0 +1,4 @@
+lex proj.l
+yacc -v proj.y
+cc -o amit y.tab.c -ll
+
